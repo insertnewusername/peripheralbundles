@@ -2,11 +2,14 @@
 
 <h2>Description</h2>
 
-This is a bundle of halloween stuff I made on onshape, including:
-Candy
-Lollipop
-Treat bag
-Batarang
+This is a peripheral bundle of halloween stuff I made on onshape, including:
+Candy,
+Lollipop,
+Treat bag,
+and a Batarang
+
+<br>
+As well as an assembly featuring them all!!!
 
 <h2>Features</h2>
 
