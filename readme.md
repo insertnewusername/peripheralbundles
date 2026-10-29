@@ -14,6 +14,18 @@ As well as an assembly featuring them all!!!
 <h2>Features</h2>
 
 Can be printed as decor
+<br>
+Looks nice <br>
+Treat bag can be used to store actual treets (once you've printed it of course)!<br>
+
+<h2>Uses</h2>
+Here are some uses for the stuff I made
+
+Candy - Can be used to troll people <br>
+Lollipop - See above <br>
+Treat bag - Cool decor, can be used to store actual candy and more!<br>
+Batarang - For that one annoying sibling of yours <br>
+
 
 <h2>Tech and tools</h2>
 
