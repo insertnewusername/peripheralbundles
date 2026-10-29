@@ -5,8 +5,8 @@
 This is a bundle of halloween stuff I made on onshape, including:
 Candy
 Lollipop
-Box thing (what you put cnady in)
-baterang!
+Treat bag
+Batarang
 
 <h2>Features</h2>
 
