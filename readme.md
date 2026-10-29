@@ -39,3 +39,12 @@ Making the candy wrapper was genuine horror. I thought they looked random and re
 
 <h2>Screenshots</h2>
 Here are some screenshots of my project!
+
+Lollies
+
+Batarang
+
+Lollypop
+
+
+The pumpkin thingy
