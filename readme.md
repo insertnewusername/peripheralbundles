@@ -1,5 +1,5 @@
 <h1>Spooky bundles</h1>
-
+<img width="626" height="517" alt="Screenshot 2026-10-30 161151" src="https://github.com/user-attachments/assets/3cbfaae9-11b5-4e2d-bcfe-81bdd71f8ce9" />
 <h2>Description</h2>
 
 This is a peripheral bundle of halloween stuff I made on onshape, including:
