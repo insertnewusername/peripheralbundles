@@ -22,11 +22,11 @@ Treat bag can be used to store actual treets (once you've printed it of course)!
 <h2>Uses</h2>
 Here are some uses for the stuff I made
 
-Candy - Can be used to troll people <br>
-Lollipop - See above <br>
+Candy - Give this to those who ask for them <br>
+Lollipop - Same logic as candy<br>
 Treat bag - Cool decor, can be used to store actual candy and more!<br>
 Mentos - Looks realistic enough to eat
-Batarang - For that one annoying sibling of yours <br>
+Batarang - For that one annoying sibling of yours :) <br>
 
 
 <h2>Tech and tools</h2>
